@@ -1,0 +1,12 @@
+{
+  "name": "zambo",
+  "description": "HANDOVER first: handover chains, living handover, and client sign-off, plus 153 tools behind one MCP endpoint and a verifiable AER-1 receipt for every job. Zambo is the verifiable work layer for AI.",
+  "version": "1.0.0",
+  "author": { "name": "Brennan Zambo", "email": "brennanzambo@zambo.dev" },
+  "homepage": "https://zambo.dev",
+  "repository": "https://github.com/zambodotdev/zambo-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["mcp", "handover", "agent-execution-receipts", "aer-1", "verification", "continuity"],
+  "mcpServers": "./mcp.json",
+  "skills": "./skills/"
+}
